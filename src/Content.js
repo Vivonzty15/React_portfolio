@@ -23,7 +23,6 @@ import avatar3 from "./assets/images/Testimonials/avatar3.png";
 import avatar4 from "./assets/images/Testimonials/avatar4.png";
 
 import Hireme_person from "./assets/images/Hireme/person.png";
-import Hireme_person2 from "./assets/images/Hireme/person2.png";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
@@ -59,17 +58,17 @@ export const content = {
   ],
   hero: {
     title: "Web Developer",
-    firstName: "JOHN",
-    LastName: "ALEX",
+    firstName: "Braxton",
+    LastName: "Allen",
     btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
       {
-        count: "8+",
-        text: "Years of Experinse in Web development",
+        count: "1+",
+        text: "Years of Experience in Web development",
       },
       {
-        count: "20+",
+        count: "8+",
         text: "Projects Worked in my career",
       },
     ],
@@ -79,7 +78,7 @@ export const content = {
     subtitle: "MY TOP SKILLS",
     skills_content: [
       {
-        name: "Figma",
+        name: "Javascript",
         para: "Lorem ipsum text  dummy",
         logo: figma,
       },
@@ -89,17 +88,22 @@ export const content = {
         logo: nodejs,
       },
       {
-        name: "Adobe Photoshop",
+        name: "React js",
         para: "Lorem ipsum text  dummy",
         logo: ps,
       },
       {
-        name: "React js",
+        name: "Next js",
         para: "Lorem ipsum text  dummy",
         logo: reactjs,
       },
       {
-        name: "Sketch",
+        name: "Tailwind",
+        para: "Lorem ipsum text  dummy",
+        logo: sketch,
+      },
+      {
+        name: "Bootstrap",
         para: "Lorem ipsum text  dummy",
         logo: sketch,
       },
@@ -107,6 +111,16 @@ export const content = {
         name: "Python",
         para: "Lorem ipsum text  dummy",
         logo: python,
+      },
+      {
+        name: "SQL",
+        para: "Lorem ipsum text  dummy",
+        logo: sketch,
+      },
+      {
+        name: "Mongoose",
+        para: "Lorem ipsum text  dummy",
+        logo: sketch,
       },
     ],
     icon: MdArrowForward,
@@ -185,21 +199,20 @@ export const content = {
     title: "Hire Me",
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
-    image2: Hireme_person2,
-    para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+    para: "I have poured dedication into Web Development to get where I am today. ",
     btnText: "Hire Me",
   },
   Contact: {
-    title: "Contect Me",
+    title: "Contact Me",
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "codeaprogram@gmail.com",
+        text: "braxtonallen99@yahoo.com",
         icon: GrMail,
-        link: "mailto:codeaprogram@gmail.com",
+        link: "mailto:braxtonallen99@yahoo.com",
       },
       {
-        text: "+91 1234 56778",
+        text: "+1(620)200-4100",
         icon: MdCall,
         link: "https://wa.me/1234567890",
       },
