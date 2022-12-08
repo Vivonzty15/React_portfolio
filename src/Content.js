@@ -153,15 +153,15 @@ export const content = {
     project_content: [
       {
         title: "Gym Website",
-        image: project1,
+        //image: project1,
       },
       {
         title: "Social Media web",
-        image: project2,
+        //image: project2,
       },
       {
         title: "Creative Website",
-        image: project3,
+        //image: project3,
       },
     ],
   },
@@ -172,25 +172,25 @@ export const content = {
       {
         review:
           "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
-        img: avatar1,
+        //img: avatar1,
         name: "JOHN DOE",
       },
       {
         review:
           "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
-        img: avatar2,
+        //img: avatar2,
         name: "Tom Alex",
       },
       {
         review:
           "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
-        img: avatar3,
+        //img: avatar3,
         name: "Johnny",
       },
       {
         review:
           "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
-        img: avatar4,
+        //img: avatar4,
         name: "ROBBIN",
       },
     ],
