@@ -149,7 +149,7 @@ export const content = {
   Projects: {
     title: "Projects",
     subtitle: "MY CREATION",
-    image: person_project,
+    //image: person_project,
     project_content: [
       {
         title: "Gym Website",
